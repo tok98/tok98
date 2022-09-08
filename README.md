@@ -2,4 +2,4 @@
 - 👀 I’m interested in the intersection of social science topics and methods and data science.
 - 🌱 I’m currently learning SQL and transparent ML models.
 - 💞️ I’m looking to collaborate on nothing at the moment.
-- 📫 Reach out on twitter <a href="http://www.twitter.com/tobiaskowalke" rel="external" target="blank">@tobiaskowalke</a>
+- 📫 Reach out on twitter [@tobiaskowalke](https://www.twitter.com/tobiaskowalke)
