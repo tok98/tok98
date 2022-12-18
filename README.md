@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tobias
 - 👀 I’m interested in the intersection of social science topics and methods and data science.
-- 🌱 I’m currently learning SQL and transparent ML models.
+- 🌱 I’m currently learning SQL, time series analysis, and transparent ML models.
 - 📫 Reach out on twitter [@tobiaskowalke](https://www.twitter.com/tobiaskowalke)
